@@ -1,0 +1,18 @@
+# Alternative requirements for Python 3.11-3.12
+# Use this if you're using Python 3.11 or 3.12
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+motor==3.3.2
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+httpx==0.25.2
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+mypy==1.7.1
+ruff==0.1.8
+openai==1.6.1
+anthropic==0.8.1
+python-multipart==0.0.6
