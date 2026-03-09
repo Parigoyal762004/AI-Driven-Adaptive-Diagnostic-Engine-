@@ -527,6 +527,15 @@ AI spent its time on:
 That's the future of development, and it's already here.
 
 ---
+##screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fece50e9-c281-4c48-a81e-bcad0a4d208e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/074a8196-bcff-45aa-9bdd-9c35de21ab22" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e43df28d-d57c-4a19-8471-6b80e49add7e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e8ab652-ff31-4792-811e-8e6b24deca8d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/067d2b8a-6ca6-4310-a978-d49d3ca8c548" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/766611ac-365c-48c0-a21e-aba93db8d1e6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5eefaf6c-c301-4871-8f1e-831894a45117" />
+
 
 ## 📞 Questions?
 
