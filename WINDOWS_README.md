@@ -46,7 +46,7 @@ This will:
 
 **For MongoDB Atlas (Cloud):**
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.xxxxx.mongodb.net/?retryWrites=true&w=majority
+MONGODB_URI=
 MONGODB_DATABASE=adaptive_testing
 ```
 
