@@ -75,7 +75,7 @@ ServerSelectionTimeoutError
 4. Copy the connection string
 5. Edit `.env` file:
    ```env
-   MONGODB_URI=mongodb+srv://username:password@cluster.xxxxx.mongodb.net/?retryWrites=true&w=majority
+   MONGODB_URI=
    ```
 6. Replace `<username>` and `<password>` with your credentials
 7. Make sure IP whitelist includes your IP or use `0.0.0.0/0` for testing
